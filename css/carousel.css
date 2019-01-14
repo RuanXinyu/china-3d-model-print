@@ -52,7 +52,6 @@ body {
   margin-left: .75rem;
 }
 
-
 /* Featurettes
 ------------------------- */
 
@@ -88,4 +87,10 @@ body {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+
+.img-thumbnail {
+  width: 140px;
+  height: 140px;
 }
